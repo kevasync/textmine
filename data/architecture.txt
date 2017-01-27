@@ -1,0 +1,34 @@
+logo
+about
+case studies
+services
+products
+news
+careers
+contact
+Architecture and Integration
+sketching
+ 
+
+Building Your Organization One Step at a Time
+Although Enterprise Architecture has been a “best practice” for over a decade, most enterprises still run on an undocumented spider web of point-to-point, tightly coupled connections. Although the short-term cost of each integration may have been less expensive than a more forward-thinking solution, the technical debt accrued is now staggering. Mobility initiatives have brought to light the pressing need to make IT decisions from the perspective of a holistic Enterprise Architecture.
+
+Enterprise Architecture has two primary purposes:
+
+Managing the complexity of IT
+Aligning IT decisions with business goals and priorities
+The first step in traditionally managed EA initiatives is to create a model of an organization’s entire IT and business environment. Unfortunately, this approach can take years to complete and for substantive benefits to materialize. That’s the primary reason about half of the organizations in the U.S. don’t have a functioning Enterprise Architecture. Worse yet, this strategy is no longer even tenable in today’s rapidly changing and unpredictable world. By the time a fully-fleshed model could be completed, the environment it’s trying to simulate would have already substantively evolved.
+
+Asynchrony solves this problem through an iterative approach to EA, prioritized by evolving business needs and technical requirements. It can be thought of as “just in time architecture,” which means doing only the work needed to add value to current needs. Instead of year-long project plans, weekly iterations allow architecture to emerge through a series of small increments. Improvement emerges through a series of small steps, each providing clear present value. Commitment to large decisions are pushed back until they’re required. Usable architectural artifacts are delivered rapidly and frequently.
+
+Traditional Enterprise Architecture is a heavyweight process that generates volumes of artifacts and documentation that add little or no value. Our approach is different. We don’t spend time on activities that aren’t clearly required. We don’t produce artifacts that aren’t actionable. We don’t write documents that will probably never be read.
+
+Instead of working in isolation, our Enterprise Architects are full-fledged members of project teams. This closes the typical distance between the Enterprise Architecture function and the rest of the organization. It also eliminates wasteful handoffs and decision cycles between stakeholder groups. By vetting the architecture through actual software projects, errors are caught early in the process, and the emerging architecture is continually vetted. Issues are uncovered that would not otherwise be discovered until late in a project, when it is most costly and time consuming to correct. The integration strategy can be built while implementing and verifying it. You no longer have to analyze every single touch point, build a waterfall plan, and implement. Instead, we carve off a segment. Prototype it. Test it. Make sure it works. Walk through the complete integration thread and then move to the next piece.
+
+ 
+
+900 Spruce Street, Suite 700 
+St. Louis, MO 63102 
+314.678.2200
+wwt-logo-footer2
+	 

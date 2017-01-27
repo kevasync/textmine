@@ -1,0 +1,29 @@
+logo
+about
+case studies
+services
+products
+news
+careers
+contact
+Tactical Collaboration
+tactical-collaboration
+
+ 
+
+Tapping the Best of Both Worlds
+Whether working in the wake of a disaster or on a carrier in the middle of the ocean, teams in the field seldom have access to enterprise systems and dependable networks. Nevertheless, on-demand communication and access to pertinent information is essential to both warfighters and civilian response teams, even when at the network edge or off-grid. Effective tools for communication, collaboration, situational awareness and management are essential to their mission.
+
+Asynchrony has been architecting and developing tactical collaboration tools that meet the Warfighters’ challenging networking and security requirements for more than a decade. We pioneered tactical collaboration tool integration in the DoD, delivering the first approved tool to integrate disparate systems as part of the Defense Collaboration Tool Suite. Our Mako platform is being deployed as the first practical replacement for antiquated IRC clients and servers. And our Mobile Field Kit (MFK) is being used by the Joint Explosive Ordnance Disposal Community, DoD CBRN Defense Forces and National Guard Civil Support Teams to integrate chemical, radiation and other sensors to provide real-time decision support, collaboration and situational awareness.
+
+For more information about the Mako platform, visit our Mako details page.
+
+For more information about our Mobile Field Kit (MFK) product, visit our MFK details page.
+
+ 
+
+900 Spruce Street, Suite 700 
+St. Louis, MO 63102 
+314.678.2200
+wwt-logo-footer2
+	 

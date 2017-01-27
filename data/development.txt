@@ -1,0 +1,57 @@
+logo
+about
+case studies
+services
+products
+news
+careers
+contact
+Software Development
+Founded in Code
+Today’s technology and business environments change so fast that solutions created by software projects can be obsolete by the time they’re delivered. Traditional approaches to enterprise IT aren’t designed to respond to the unprecedented speed and uncertainty. That’s why we build software through ongoing iteration in close collaboration with our customers.
+World Wide Technology Asynchrony Labs, Inc. (Asynchrony) software development capabilities are driven through ongoing customer involvement that spans the entire project lifecycle. The customer is a key participant in the project’s kickoff meeting as they provide insight and guidance to establish the vision of what the team needs to build. Using this vision, the project team creates a charter that captures the team’s processes and determines the frequency of when the team will meet with the customer to gather feedback on completed software and flesh out the details of upcoming features.
+Asynchrony’s agile software development techniques continuously deliver working software throughout the entire life of a project.
+
+
+
+Ongoing conversations with the customer capture the details of the software to be developed using concise user stories. By breaking down details about the software in small user stories, customer investment is focused on implementing software vs. writing documentation. More importantly, small user stories allow for quick software implementation that provides faster return on investment and drives the agile feedback cycle; it is common that once a customer and an Asynchrony team brainstorm the details of a feature, the team is able to start demonstrating components of that feature to their customer in as little as one to two weeks.
+
+ 
+
+Demonstrations and Feedback
+Asynchrony Labs’ engineering teams use technical best practices to ensure software is developed the right way, ongoing customer demonstrations provide feedback to ensure the software does the right things. These demonstrations lead to refining the features right from the start of the project so as to increase the business value each feature provides. Discussions during these demonstrations allow both the customer and the team to share lessons learned and recommendations for improvement realized during the project; this results in prioritizing features that provide strategic business advantage while deprioritizing features that provide limited business value.
+
+
+
+
+
+Embedded Quality Assurance
+Our quality assurance processes are designed to prevent bugs, not just fix them. Before we write a single line of code, we create tests to validate whether each unit of code will work as intended. We program in pairs to catch errors at the keyboard and adhere to a uniform, maintainable approach to architecture and software coding standards. Continuous integration ensures that a system works exactly as it’s designed to work after each and every change. Customer acceptance tests not only guarantee the code works properly, but also verify that the individual business functions of the system work correctly.
+
+Asynchrony engineering teams leverage automated test capabilities to enable their customer’s business agility.
+
+ 
+
+Automated testing allows customers to refine and improve the software’s features throughout a project as the automated tests confirm immediately that enhancements made do not adversely impact features already completed.
+
+ 
+
+Agile and Lean
+Asynchrony employs proven principles from lean systems and Kanban to increase the efficiency of software development and maintain customer awareness of project status. Working with their customer, development teams complete stories in priority order, focusing on the stories that provide the greatest business value. Teams only work on a few stories at a time so as to minimize work in process. This enables the customer to provide fast feedback and allows for lessons learned and shared code to be applied to stories that are addressed later in a project’s lifecycle.
+
+Team efficiency and project risk are monitored by capturing metrics regarding how long it takes for a team to complete the development of each story. Trend analysis of the time required to complete each story guides a team to improve their process and software design so as to increase efficiency while not impacting quality. Teams use Kanban as a visual management system to track each story through its entire lifecycle. All members of the team, including the customer, can view completed, active and upcoming stories at anytime by viewing a team’s Kanban board. While the Kanban board guides the team to write the necessary tests and code for each story, customers can view the same board to see which stories have been completed and are ready for demonstration, and which stories have been prioritized for the team to work on next.
+
+ 
+
+Continuous Improvement and Learning
+Asynchrony’s software development capability leverages the benefits of continuous improvement and learning. Development teams engage in frequent retrospectives to focus on identifying opportunities to improve their development processes and software. Teams then use metrics to confirm that changes made provide intended benefits. Ongoing customer collaboration ensures the learning, which inevitably occurs throughout the lifecycle of a project, is not lost, but rather used to enable the team to write better quality software and best support emergent business needs.
+
+
+
+
+
+900 Spruce Street, Suite 700 
+St. Louis, MO 63102 
+314.678.2200
+wwt-logo-footer2
+	 

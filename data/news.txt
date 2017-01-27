@@ -1,0 +1,176 @@
+logo
+about
+case studies
+services
+products
+news
+careers
+contact
+WWT Asynchrony Labs to Test and Build Transformational Business Solutions Exclusively for iPhone and iPad
+JANUARY 12, 2017 /	UNCATEGORIZED
+WWT Asynchrony Labs is bringing its expertise in mobile app development to businesses running on iPhone and iPad
+World Wide Technology (WWT) Asynchrony Labs is a new Apple mobility partner, joining other industry-leading technology companies in creating engaging, business-centric applications that leverage the full potential of the iOS platform. WWT Asynchrony Labs will serve as an R&D house testing and building innovative iOS applications for a variety of industries.
+
+Enterprises require custom-built iOS applications that solve the unique business challenges of their respective markets. No company is better positioned to provide this need than WWT Asynchrony Labs which has been developing mission-critical applications for the Department of Defense and Fortune 1000 corporations since 1999.  Our unique blend of full-stack developers, UX designers, and quality professionals are building custom iOS applications, through an iterative, Agile process to ensure that all relevant stakeholders – IT, business, partner and end user – are engaged in throughout the entire development lifecycle.
+
+Read the rest of Bob Elfanbaum’s post on the World Wide Technology Blog.
+
+The Reason Scrum So Often Fails Agile Teams
+OCTOBER 20, 2016 /	UNCATEGORIZED
+The Reason Scrum So Often Fails Agile Teams is a new article on AgileConnection by John Yorke.John is an Agile Coach at WWT Asynchrony Labs. He coaches the company’s development teams, and is a former Scrum Master with more than 20 years’ experience in software development.
+
+The core of the Scrum framework for managing product development is the three key roles: ScrumMaster, product owner, and the development team. This triad is what makes Scrum so successful—when it works. However, it is the absence of these three roles that is the root cause of the majority of unsuccessful adoptions.
+
+Read the rest of the story on AgileConnection.
+
+Dave Thomas, Programming Expert and Author to Speak at WWT Asynchrony Labs on October 20, 2016
+OCTOBER 11, 2016 /	UNCATEGORIZED
+Event is Free and Open to the General Public
+
+St. Louis – October 2016 — WWT Asynchrony Labs today announced that Dave Thomas, one of the most well-known experts on computer programming, will speak at an event hosted by WWT Asynchrony Labs in St. Louis on October 20, 2016.
+
+Thomas will deliver a presentation titled “Agile is Dead.” This event is free and open to the general public. It will begin at 6:00pm, with a reception that includes refreshments provided by Asynchrony Labs, followed by Thomas’ talk at 6:30.  It will be held at the Barcelona Auditorium at WWT headquarters located at World Wide Technology, 701 Fee Fee Road, Maryland Heights, Missouri, 63043.
+
+For those from the general public interested in attending, they can pre-register for the event at https://www.eventbrite.com/e/dave-thomas-agile-is-dead-tickets-28371063615.  Also, for anyone interested in attending the 6:30 presentation but cannot attend in person, they can pre-register and view the session via WebEx. The WebEx login information will be provided when pre-registering.
+
+Dave Thomas is one of the foremost computer programming experts on several programming languages. Over the years, he has written extensively and published numerous books, articles, and research papers and has spoken in the U.S. and internationally about Ruby, Ruby on Rails, Java, and agility.  He wrote the acclaimed industry book, alongside co-author Andy Hunt, “The Pragmatic Programmer.”  Dave also hosts a popular industry blog and Twitter page @pragdave.
+
+To find out more information about the event, visit WWT Asynchrony Labs or contact Rachel Cobstill at rachel.cobstill@asynchrony.com
+
+About WWT Asynchrony Labs
+
+World Wide Technology Asynchrony Labs, Inc. is an information technology consulting firm located in St. Louis, Missouri. We specialize in application development, mobile computing, systems and sensor integration, enterprise architecture, and tactical collaboration. Our diverse client base includes commercial, non-profit, and government organizations. We’ve delivered solutions ranging from back-end government middleware to front-end applications and full-scale, commercial cloud infrastructures. In short, Asynchrony Labs connects people, sensors, information, and systems.
+
+The Agile 5 Minute Daily Standup
+SEPTEMBER 29, 2016 /	UNCATEGORIZED
+“How To Win With Agile By Cheating” is the latest article in the award-winning “Agile Architect” series by Mark J. Balbes, Ph.D., Vice President of Architecture at Asynchrony Labs.
+
+It’s time for your next meeting. You take the five minute walk to the only conference room available which is, of course, in the next building over. With laptop in hand, you enter the room, pleased to discover that it is roomy, comfortable and, best of all, there’s available power. Plugging in your laptop, you settle in for the scheduled one hour team status update. Your next meeting starts right after this one, so even if this meeting ends early, you know you aren’t going back to your desk.
+
+Read more at Application Development Trends Magazine.
+
+Winning hackathon team develops sensors to save the bees
+SEPTEMBER 28, 2016 /	UNCATEGORIZED
+Staff from WWT and WWT Asynchrony Labs recently won first prize at the Cisco Live Hackathon in Las Vegas for their innovative software to try to explore and help solve the decline of the global bee population.
+
+Bee colonies have been on the decline for some time due to environmental pressures, and it’s become a global issue that researchers, farmers, environmentalists, even average citizens are trying to solve. One software development team has joined the fight, and their small device with simple and inexpensive hardware might be one way to bring the bees back.
+
+Read the full story in Software Development Times yesterday.
+
+An Engineer Uses IoT to Tackle Illness
+SEPTEMBER 27, 2016 /	UNCATEGORIZED
+Daniel Strabley, User Engineer, WWT Asynchrony Labs, was featured as a Lead Story in Computerworld.
+Daniel Strabley, right, developed a system for tablets called Wally to helps patients like Walter Remiger, who has dementia.
+
+The work on detecting weapons of mass destruction is similar in concept to what Strabley is doing to help his wife’s grandfather, who is suffering from dementia. He has written software that can help people with varying degrees of cognitive issues, and is using sensors such as Amazon’s new IOT buttons, to improve communication.
+
+Read the full story in Computerworld.
+
+Innovation by Design Conference Starts Tomorrow
+SEPTEMBER 26, 2016 /	UNCATEGORIZED
+WWT Asynchrony Labs will be hosting an “Innovation Lounge” at the Innovation Design Conference at St. Louis’ historic Union Station, September 27-28.  The event includes a great schedule of presentations, workshops and special events including peer-to-peer “brain dating” and “innovation safaris.” Apple Cofounder Steve Wozniak will give the main keynote presentation. Asynchrony will be running various hands-on innovation games in our lounge, located in the Innovation Hub exhibition hall.
+
+Agile Gravy Conference This Thursday
+SEPTEMBER 26, 2016 /	UNCATEGORIZED
+WWT Asynchrony Labs will have three speakers at the Agile Gravy Conference in St. Louis this Thursday, September 29, 2016. Our speakers include: Matthew Philip, Director of Agile Coaching; John Sextro, Agilist; Neem Serra, Ruby and iOS Developer. Their presentation topics and abstracts, times, and room assignments can all be found here.
+
+Five Minutes With… Bob Elfanbaum, Co-Founder/GM, WWT Asynchrony Labs
+SEPTEMBER 26, 2016 /	UNCATEGORIZED
+Agile is a way of thinking, but it’s also a way to develop code. Where do these two paths converge? That’s the question Embedded Computing posed to Bob Elfanbaum, the Co-Founder and General Manager of WWT Asynchrony Labs in this video interview.
+
+
+
+Asynchrony Labs growing in Denver
+SEPTEMBER 22, 2016 /	UNCATEGORIZED
+Asynchrony's Fusion Dashboaard
+Earlier in 2016, IT services company World Wide Technology and its subsidiary Asynchrony Labs opened up an office in downtown Denver focused on regional sales, engineering and development. It’s already looking to expand the office as it ramps up hiring.
+
+Read more of story in Confluence Denver.
+
+ 
+Search here...
+RECENT POSTS
+WWT Asynchrony Labs to Test and Build Transformational Business Solutions Exclusively for iPhone and iPad
+The Reason Scrum So Often Fails Agile Teams
+Dave Thomas, Programming Expert and Author to Speak at WWT Asynchrony Labs on October 20, 2016
+The Agile 5 Minute Daily Standup
+Winning hackathon team develops sensors to save the bees
+RECENT COMMENTS
+ARCHIVES
+January 2017
+October 2016
+September 2016
+April 2016
+December 2015
+October 2015
+September 2015
+July 2015
+June 2015
+April 2015
+February 2015
+January 2015
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+December 2012
+November 2012
+October 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+October 2011
+September 2011
+August 2011
+July 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+March 2010
+February 2009
+January 2009
+CATEGORIES
+Press Release
+Uncategorized
+META
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+900 Spruce Street, Suite 700 
+St. Louis, MO 63102 
+314.678.2200
+wwt-logo-footer2
+	 

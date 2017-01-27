@@ -1,0 +1,36 @@
+logo
+about
+case studies
+services
+products
+news
+careers
+contact
+We specialize in application development, mobile computing, systems and sensor integration, enterprise architecture, and tactical collaboration.
+
+Our Vision and Trajectory
+
+World Wide Technology Asynchrony Labs, Inc. (Asynchrony) is an information technology consulting firm located in St. Louis, Missouri. We specialize in application development, mobile computing, systems and sensor integration, enterprise architecture, and tactical collaboration. Our diverse client base includes commercial, non-profit, and government organizations. We’ve delivered solutions ranging from back-end government middleware to front-end applications and full-scale, commercial cloud infrastructures. In short, Asynchrony Labs connects people, sensors, information, and systems.
+
+Our mission is to create high-impact software solutions through ongoing client collaboration, iterative development, and continuous testing that are better than could have been envisioned at project start.
+
+
+
+The Asynchrony Labs team is comprised of highly-motivated experts focused on developing well-designed, usable software backed by hard-core tech and engineering.
+
+Thriving on Change
+
+Asynchrony was founded in 1999 by brothers Bob, Steve, and Dave Elfanbaum and Nate McKie. Since then, we’ve grown into a thriving company of 200 people and growing including developers, designers, QA professionals, UX specialists, customer support personnel, and the management, sales and administrative support to keep the company confidently moving forward into the “unforeseeable future.” In 2015, we joined World Wide Technology and became World Wide Technology Asynchrony Labs, Inc. a subsidiary of World Wide Technology.
+
+Our workplace and processes are designed to spur creativity and foster consistent innovation. Our teams work in open spaces that promote ad-hoc collaboration, employing tools as low-tech as whiteboards and as high-tech as state-of-the-art integrated project dashboards. Our “approachable nerd” culture keeps us thinking towards the future while keeping focused on the challenges at hand.
+
+We’ve been a recognized leader in Agile development practices for over a decade, and remain one of only a handful of contractors delivering true Agile solutions for the Department of Defense. This development methodology allows us to be highly responsive to the evolving needs of our clients, learning as we go along, “failing faster (and cheaper)”, adjusting, and then getting it right. Our teams are designed to respond on a dime to changing requirements and emerging opportunities and technologies.
+
+At Asynchrony Labs, we don’t just respond quickly and effectively to change, we thrive on change.
+ 
+
+900 Spruce Street, Suite 700 
+St. Louis, MO 63102 
+314.678.2200
+wwt-logo-footer2
+	 
