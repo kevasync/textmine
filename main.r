@@ -2,14 +2,13 @@
 
 #Needed <- c("tm", "SnowballCC", "RColorBrewer", "ggplot2", "wordcloud", "biclust", "cluster", "igraph", "fpc")  
 #install.packages(Needed, dependencies=TRUE)   
+#library(tm) 
 
-setwd("~/workspace/r/textMine)
-cname <- file.path("data")   
-cname   
-dir(cname) 
-
-library(tm)   
-docs <- Corpus(DirSource(cname))   
+setwd("~/workspace/r/textMine")
+dataDir <- file.path("data")
+   
+#create text mining corpus
+docs <- Corpus(DirSource(dataDir))   
 
 # normalize case
 docs <- tm_map(docs, tolower) 
@@ -33,7 +32,7 @@ docs <- tm_map(docs, removeWords, x = stopwords("english"))
 
 #remove header and footer text
 headerLinks = c("logo", "about", "case studies",  "services", "products", "news", "careers", "contact")
-footer = c("spruce","street", "suite", "st", "louis" ,"mo", "wwt-logo-footer2", "wwtlogofooter")
+footer = c("spruce","street", "suite", "st", "louis" ,"mo", "wwt-logo-footer2", "wwtlogofooter", "footer")
 docs <- tm_map(docs, removeWords, headerLinks)  
 docs <- tm_map(docs, removeWords, footer)  
 
@@ -48,3 +47,21 @@ docs <- tm_map(docs, PlainTextDocument)
 documentTermMatrix = DocumentTermMatrix(docs)
 inspect(documentTermMatrix)
 
+#organize by frequency
+freq <- colSums(as.matrix(documentTermMatrix))
+ord <- order(freq)
+
+#This makes a matrix that is 10% empty space, maximum.   
+documentTermMatrix <- removeSparseTerms(documentTermMatrix, .1)
+inspect(documentTermMatrix)  
+
+#see least and most frequent terms
+freq[head(ord)]   
+freq[tail(ord)]  
+
+#terms by frequency
+freq <- colSums(as.matrix(documentTermMatrix))   
+freq  
+
+#words that show up 50 or more times only
+findFreqTerms(documentTermMatrix, lowfreq=50)
